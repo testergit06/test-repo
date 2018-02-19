@@ -3,3 +3,5 @@ Print Good Morning
 Print Name // Added change
 Print Age
 Print Address
+Print Phone
+Print gender
