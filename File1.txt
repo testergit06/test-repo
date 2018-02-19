@@ -5,3 +5,4 @@ Print Age
 Print Address
 Print Phone
 Print gender
+Print email
